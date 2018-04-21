@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/mysql-connector-java-8.0.7-dmr/mysql-connector-java-8.0.7-dmr/mysql-connector-java-8.0.7-dmr-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/jsoup-1.6.0.jar/jsoup-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/pdfboxjars/fontbox-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/pdfboxjars/pdfbox-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/pdfboxjars/pdfbox-debugger-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/pdfboxjars/pdfbox-tools-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/pdfboxjars/preflight-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/pdfboxjars/xmpbox-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/bouncycastle.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/bouncycastle-jce-jdk13-112.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/commons-logging-1.2 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/saroj/Downloads/External jar files/mysql-connector-java-8.0.7-dmr-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
